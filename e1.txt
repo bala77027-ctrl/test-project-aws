@@ -1,2 +1,5 @@
 Hi Balakrishna
 Good Afternoon
+pwd
+ls
+history
